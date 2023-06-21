@@ -1,0 +1,90 @@
+﻿  test.cpp
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(28,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(28,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(32,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(32,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(47,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(47,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(100,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(155,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(155,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(156,108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(156,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(163,116): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(163,95): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(165,121): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(165,100): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(167,123): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(167,102): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(173,121): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(173,100): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(175,117): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(175,96): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(177,136): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(177,115): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(188,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(188,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(189,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(189,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(192,142): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(192,121): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(202,74): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(202,88): warning C4018: '<': signed/unsigned mismatch
+C:\Users\domin\Desktop\projekt — kopia (2)\test.cpp(284,35): warning C4018: '<': signed/unsigned mismatch
+  test.vcxproj -> C:\Users\domin\Desktop\projekt — kopia (2)\Debug\test.exe
